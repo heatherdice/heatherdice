@@ -16,23 +16,20 @@ I'm a former music teacher breaking out into the world of software development. 
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" /></code>
 </div>
 
+## <p align="center">:chart_with_upwards_trend: Stats</p>
+<p align="center">
+	<a href="https://github.com/heatherdice/github-readme-stats">
+		<img src="https://github-readme-stats.vercel.app/api?username=heatherdice&hide=contribs&show_icons=true&theme=tokyonight">
+	</a>
+	<a href="https://github.com/heatherdice/github-readme-stats">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heatherdice&theme=tokyonight&layout=compact">
+	</a>
+</p>
+
 ## <p align="center">:handshake: Let's connect!</p>
 
-<p align="center"><a href="https://www.linkedin.com/in/heather-dice/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
-
-
-
-<!--
-**heatherdice/heatherdice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+	<a href="https://www.linkedin.com/in/heather-dice/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
+</p>
