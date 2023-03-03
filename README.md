@@ -1,7 +1,7 @@
 # <p align="center">Hi I'm Heather! 👋</p>
 
 <p align="center">
-I'm a former music teacher breaking out into the world of software development. Having recently graduated from the accredited Coding Dojo bootcamp with a certificate in fullstack development, I am now working on personal projects while applying to Junior Developer positions. I have also taken on an additional course with [SheCodes](https://www.shecodes.io/) to improve my frontend skills.
+I'm a former music teacher breaking out into the world of software development. Having recently graduated from the accredited <a href="https://www.codingdojo.com/">Coding Dojo</a> bootcamp with a certificate in fullstack development, I am now working on personal projects while applying to Junior Developer positions. I have also taken on an additional course with <a href="https://www.shecodes.io/">SheCodes</a> to improve my frontend skills.
 </p>
 
 ## <p align="center">:desktop_computer: My Tech Stacks</p>
@@ -15,6 +15,10 @@ I'm a former music teacher breaking out into the world of software development. 
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" /></code>
 </div>
+
+## <p align="center">:handshake: Let's connect!</p>
+
+<p align="center"><a href="https://www.linkedin.com/in/heather-dice/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
 
 
 
