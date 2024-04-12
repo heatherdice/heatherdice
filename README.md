@@ -1,7 +1,7 @@
 # <p align="center">Hi I'm Heather! 👋</p>
 
 <p align="center">
-I'm a former music teacher who's now broken out into the world of software development. I graduated from the accredited <a href="https://www.codingdojo.com/">Coding Dojo</a> bootcamp with a certificate in fullstack development in September of 2022 and took an additional course with <a href="https://www.shecodes.io/">SheCodes</a> to improve my frontend skills. I now work for <a href="https://altusinc.co/">Altus Technology Solutions</a> as a Web Developer.
+I'm a former music teacher who's now broken out into the world of web development. I graduated from the accredited <a href="https://www.codingdojo.com/">Coding Dojo</a> bootcamp with a certificate in fullstack development in September of 2022 and took additional courses with <a href="https://www.shecodes.io/">SheCodes</a> to improve my frontend skills. I now work for <a href="https://altusinc.co/">Altus Technology Solutions</a> as a Web Developer.
 </p>
 
 ## <p align="center">:desktop_computer: My Tech Stacks</p>
