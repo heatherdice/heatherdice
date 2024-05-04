@@ -27,14 +27,25 @@ I'm a frontend web developer who loves to use React. I graduated from the accred
 </div>
 
 ## <p align="center">:chart_with_upwards_trend: Stats</p>
-<p align="center">
-	<a href="https://github.com/heatherdice/github-readme-stats">
-		<img src="https://github-readme-stats.vercel.app/api?username=heatherdice&hide=contribs&show_icons=true&theme=tokyonight">
-	</a>
-	<a href="https://github.com/heatherdice/github-readme-stats">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heatherdice&theme=tokyonight&layout=compact">
-	</a>
-</p>
+<table align="center" border="0">
+	<tr>
+		<td>
+			<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+				<img src="https://github-readme-streak-stats.herokuapp.com/?user=heatherdice&theme=tokyonight&layout=compact">
+			</a>	
+		</td>
+		<td>
+			<a href="https://github.com/heatherdice/github-readme-stats">
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heatherdice&theme=tokyonight&layout=donut">
+			</a>	
+		</td>	
+	</tr>	
+</table>
+
+## <p align="center">&#x1F465; My Networks</p>
+<div align="center">
+	<p>Coming soon!</p>
+</div>
 
 ## <p align="center">:handshake: Let's connect!</p>
 
