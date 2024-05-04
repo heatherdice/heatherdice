@@ -26,7 +26,7 @@ I'm a frontend web developer who loves to use React. I graduated from the accred
 	
 </div>
 
-## <p align="center">:chart_with_upwards_trend: Stats</p>
+## <p align="center">:chart_with_upwards_trend: My Stats</p>
 <table align="center" border="0">
 	<tr>
 		<td>
@@ -44,7 +44,15 @@ I'm a frontend web developer who loves to use React. I graduated from the accred
 
 ## <p align="center">&#x1F465; My Networks</p>
 <div align="center">
-	Coming Soon!
+	<a href="https://thewitnetwork.com/">
+		<img src="https://github.com/heatherdice/heatherdice/assets/106483660/844489b9-94c6-42fd-a54e-9b1b95a4ddc5" height="10%" width="10%">
+	</a>
+	<a href="https://outintech.com/">
+		<img src="https://github.com/heatherdice/heatherdice/assets/106483660/745b989d-8cbc-450c-b2b4-ddbfdd1bde92" height="10%" width="10%">
+	</a>
+	<a href="https://www.phillydev.org/">
+		<img src="https://github.com/heatherdice/heatherdice/assets/106483660/6c504069-e4b7-4c45-ae5c-8fb3246f5d3f" height="10%" width="10%">
+	</a>
 </div>
 
 ## <p align="center">:handshake: Let's connect!</p>
