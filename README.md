@@ -44,7 +44,12 @@ I'm a frontend web developer who loves to use React. I graduated from the accred
 
 ## <p align="center">&#x1F465; My Networks</p>
 <div align="center">
-	<p>Coming soon!</p>
+	<a href="https://thewitnetwork.com/?gad_source=1&gclid=Cj0KCQjwudexBhDKARIsAI-GWYWUV4k0lmEvYG595W2aCNI298NmBI8kCVKBH8yuwpQRqaYMyUCu5bEaAkk-EALw_wcB">
+		<img src="">
+	</a> 
+	<a href="https://outintech.com/">
+		<img src="">
+	</a>
 </div>
 
 ## <p align="center">:handshake: Let's connect!</p>
