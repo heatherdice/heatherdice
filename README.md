@@ -53,6 +53,12 @@ I'm a frontend web developer who loves to use React. I graduated from the accred
 	<a href="https://www.phillydev.org/">
 		<img src="https://github.com/heatherdice/heatherdice/assets/106483660/6c504069-e4b7-4c45-ae5c-8fb3246f5d3f" height="10%" width="10%">
 	</a>
+	<a href="https://www.frontendqueens.com/">
+		<img src="https://github.com/heatherdice/heatherdice/assets/106483660/541ef076-733c-4ec4-8d68-c3f104dd6bd7" height="10%" width="10%">
+	</a>
+	<a href="https://www.a11yproject.com/">
+		<img src="https://github.com/heatherdice/heatherdice/assets/106483660/eb312254-ebff-4ae5-9583-3dce174824a0" height="10%" width="10%">
+	</a>
 </div>
 
 ## <p align="center">:handshake: Let's connect!</p>
