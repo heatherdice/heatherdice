@@ -1,7 +1,7 @@
 # <p align="center">Hi I'm Heather! 👋</p>
 
 <p align="center">
-I'm a frontend web developer who loves to use React. I graduated from the accredited <a href="https://www.codingdojo.com/">Coding Dojo</a> bootcamp with a certificate in fullstack development in September of 2022 and took additional frontend courses with <a href="https://www.shecodes.io/">SheCodes</a>. I now work for <a href="https://altusinc.co/">Altus Technology Solutions</a> as a Web Developer. Lately, my coding interests include web accessibility best practices, as well as advanced CSS and React concepts. I also dabble in web design.
+I'm a frontend web developer who loves to use React. I graduated from the accredited <a href="https://www.codingdojo.com/">Coding Dojo</a> bootcamp with a certificate in fullstack development in September of 2022 and took additional frontend courses with <a href="https://www.shecodes.io/">SheCodes</a>. I now work for <a href="https://altusinc.co/">Altus Technology Solutions</a> as a Web Developer. Lately, my coding interests include web accessibility best practices, as well as advanced CSS and React concepts. I also dabble in web design, using Figma to create captiviating wireframes.
 </p>
 
 ## <p align="center">:desktop_computer: My Tech Stacks</p>
