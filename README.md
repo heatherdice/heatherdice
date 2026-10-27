@@ -4,7 +4,7 @@
 	As the founder of <a href="https://www.downtoearthtechsolutions.com" target="_blank" rel="noopener">Down to Earth Tech Solutions, LLC</a>, I focus on branding, business needs, and user accessibility to bring big tech solutions to small businesses. After two degrees and seven years of work as a music educator, I needed a career change. I started my education to move into a career in tech in 2021, and landed my first role as a web developer in 2022. Now, I've branched out on my own, founding my own business in 2026. I love bringing my unique perspective, helping people who may struggle with technology to gain a greater understanding and make their tech work better for their business. Running a small business is hard enough without also trying to keep up with tech advancements.
 </p>
 
-<p>
+<p align="center">
 	This GitHub serves as a place for both my personal and business projects, starting all the way back to my early days of learning how to code.
 </p>
 
