@@ -1,7 +1,11 @@
 # <p align="center">Hi I'm Heather! 👋</p>
 
 <p align="center">
-I'm a frontend web developer who loves to use React. I graduated from the accredited <a href="https://www.codingdojo.com/">Coding Dojo</a> bootcamp with a certificate in fullstack development in September of 2022 and took additional frontend courses with <a href="https://www.shecodes.io/">SheCodes</a>. 6 months after graduating from Coding Dojo, I was hired to work for <a href="https://altusinc.co/">Altus Technology Solutions</a> as a Web Developer. Recently, I have begun freelance work building websites for small businesses. My coding interests include web accessibility best practices, as well as advanced CSS and React concepts. I also dabble in web design, using Figma to create captiviating wireframes.
+	As the founder of <a href="https://www.downtoearthtechsolutions.com" target="_blank" rel="noopener">Down to Earth Tech Solutions, LLC</a>, I focus on branding, business needs, and user accessibility to bring big tech solutions to small businesses. After two degrees and seven years of work as a music educator, I needed a career change. I started my education to move into a career in tech in 2021, and landed my first role as a web developer in 2022. Now, I've branched out on my own, founding my own business in 2026. I love bringing my unique perspective, helping people who may struggle with technology to gain a greater understanding and make their tech work better for their business. Running a small business is hard enough without also trying to keep up with tech advancements.
+</p>
+
+<p>
+	This GitHub serves as a place for both my personal and business projects, starting all the way back to my early days of learning how to code.
 </p>
 
 ## <p align="center">:desktop_computer: My Tech Stacks</p>
